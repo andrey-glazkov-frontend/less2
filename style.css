@@ -10,4 +10,6 @@ body {
 h1 {
     color: seagreen;
     margin: 0;
+    font: 3rem sans-serif;
+    
 }
